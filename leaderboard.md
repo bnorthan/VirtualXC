@@ -1,1 +1,4 @@
-# Lederboard (more to come)
+## Leader board
+
+Check back soon!
+
