@@ -5,7 +5,7 @@ import pandas as pd
 sys.path.append('..//scoreware-site//util//runner//')
 import runnerutils
 
-data=pd.read_csv('results/2020-09-14 2020 HMRRC VIRTUAL 5K XC SERIES Hudson Mohawk Road Runners Club.csv')
+data=pd.read_csv('results/2020-10-04 2020 HMRRC VIRTUAL 5K XC SERIES Hudson Mohawk Road Runners Club.csv')
                         #  2020-09-14 2020 HMRRC VIRTUAL 5K XC SERIES Hudson Mohawk Road Runners Club
 def timeToSeconds(time):
     temp=time.split('.') 
@@ -20,7 +20,7 @@ def timeToSeconds(time):
         return 100000
     
 data['seconds']=data['Time'].apply(lambda x: timeToSeconds(x))
-data=data.drop('Event registration date',axis=1)
+#data=data.drop('Event registration date',axis=1)
 data=data.drop('e-Mail', axis=1)
 
 data=data.sort_values(by='seconds')

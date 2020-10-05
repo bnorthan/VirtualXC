@@ -1,10 +1,14 @@
-|    | First name   | Last name   | Gender   | Course Locaton                   | Time   | Target Goal Time for 3rd Run   | Member   |
-|---:|:-------------|:------------|:---------|:---------------------------------|:-------|:-------------------------------|:---------|
-|  1 | Brian        | Northan     | m        | Tawasentha                       | 23:10  | 21:59                          | Yes      |
-|  2 | Scott        | Suba        | m        | Sung IT                          | 25:05  | 24:05                          | Yes      |
-|  3 | Scott        | Suba        | m        | Suny IT xc course                | 25:20  | 24:30                          | Yes      |
-|  4 | Erika        | Oesterle    | f        | Stamford in the Catskills N.Y.   | 30:10  | 29:02                          | Yes      |
-|  5 | Erika        | Oesterle    | f        | Stamford in the Catskills N.Y.   | 30:10  | nan                            | Yes      |
-|  6 | Terri        | Bills       | f        | Wakonda Campground, Pottersville | 35:13  | 32:13                          | Yes      |
-|  7 | Terri        | Bills       | f        | Wakonda Campground, Pottersville | 35:13  | 32:13                          | Yes      |
-|  8 | Suzanne      | Nealon      | f        | Queensbury, Rush Pond            | 40:29  | 38:50                          | Yes      |
+|    | First name   | Last name   | Gender   | Time   |
+|---:|:-------------|:------------|:---------|:-------|
+|  1 | Benjamin     | Heller      | m        | 18:30  |
+|  2 | Brian        | Northan     | m        | 23:10  |
+|  3 | Scott        | Suba        | m        | 25:05  |
+|  4 | Scott        | Suba        | m        | 25:20  |
+|  5 | Scott        | Suba        | m        | 26:10  |
+|  6 | Erika        | Oesterle    | f        | 30:10  |
+|  7 | Erika        | Oesterle    | f        | 30:10  |
+|  8 | Alex         | James       | m        | 30:11  |
+|  9 | Terri        | Bills       | f        | 35:13  |
+| 10 | Terri        | Bills       | f        | 35:13  |
+| 11 | Terri        | Bills       | f        | 35:58  |
+| 12 | Suzanne      | Nealon      | f        | 40:29  |
